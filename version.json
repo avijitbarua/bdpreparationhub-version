@@ -4,11 +4,11 @@
   "force_update": false,
   "apk_url": "https://github.com/avijitbarua/app_version/releases/download/smartbabypad/smartbabypad.apk",
   "apk_sha256": "1ee77161c5ad46bf8a17c0389a5f35cd4dc089b8485d3f5a52def72cfdec7a14",
-  "release_date": "2025-12-04",
+  "release_date": "2026-03-07",
   "update_title": "নতুন আপডেট পাওয়া গেছে! 🚀",
   "update_message": "নতুন ভার্সন উপলব্ধ। সর্বশেষ ফিচার ও নিরাপত্তা প্যাচ পেতে এখনই আপডেট করুন।",
   "whats_new": [
-    "নতুন বেবি মনিটরিং ফিচার যোগ করা হয়েছে",
+    "নতুন ফিচার যোগ করা হয়েছে",
     "UI আরও সুন্দর করা হয়েছে",
     "বাগ ফিক্স ও পারফরম্যান্স উন্নতি",
     "ডার্ক মোড সাপোর্ট"
