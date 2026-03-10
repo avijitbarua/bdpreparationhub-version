@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "version_code": 1,
+  "version": "1.0.1+2",
+  "version_code": 2,
   "force_update": false,
   "apk_url": "https://play.google.com/store/apps/details?id=com.bd.preparationhub",
   "apk_sha256": "sha256:b2a0843f29796c1bcb9c96506497a580755481ddddce762d245f3c6709a8a799",
